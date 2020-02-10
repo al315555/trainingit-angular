@@ -1,11 +1,11 @@
 {
-  "name": "practica-final-curso-al315555",
+  "name": "training-angular",
   "version": "0.0.0",
   "scripts": {
     "build:prod": "ng build --prod",
     "build:pub": "ng build --prod --output-path docs --base-href https://al315555.github.io/trainingit-angular/",
     "e2e": "ng e2e",
-    "http-server": "http-server ./dist/practica-final-curso-al315555/ -c-1 -p4271 -a localhost -o",
+    "http-server": "http-server ./dist/training-angular/ -c-1 -p4271 -a localhost -o",
     "lint": "ng lint",
     "ng": "ng",
     "pub": "npm run build:pub && npm run push",
